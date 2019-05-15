@@ -1,6 +1,6 @@
 #save this file as .gitignore
 # ignore the following:
-//*.o
+#//*.o
 *.out
 *.exe
 db.php
